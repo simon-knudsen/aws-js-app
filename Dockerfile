@@ -15,3 +15,5 @@ RUN npm install
 
 # no need for /home/app/server.js because of WORKDIR
 CMD ["node", "server.js"]
+
+
